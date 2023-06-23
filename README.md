@@ -10,9 +10,12 @@ Official implementation: [Link](https://github.com/whai362/PSENet.git)
 Dataset used: [ICDAR2015](https://rrc.cvc.uab.es/?ch=4&com=tasks#TextLocalization)
 A training set of 1000 images containing about 4500 readable words
 A testing set containing about 2000 readable words
+## Preprocessed DATASET
+Run Craft model using its README.md file provided in the Craft-pytorch-master
 
-Run Craft model using the Readme file provided in the Craft-pytorch-master
-Run the images_preprocessing.py file as
+Change the paths in the image_preprocessing.py file accordingly and then run the images_preprocessing.py file as
+
+
 python images_preprocessing.py
 ### [Pretrained Model](#contents)
 
