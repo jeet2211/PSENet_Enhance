@@ -1,0 +1,6 @@
+Python
+PyTorch
+pyclipper
+Polygon2
+OpenCV==3.4
+opencv-python==3.4
