@@ -1,6 +1,8 @@
-Python
-PyTorch
+torch
+torchvision
+mmcv
+editdistance
+Polygon
 pyclipper
-Polygon2
-OpenCV==3.4
-opencv-python==3.4
+opencv-python==3.4.2.17
+Cython
